@@ -14,6 +14,7 @@
 ## 🛠 Languages & Skills  
 
 <p align="center">
+<img src="https://cs50.harvard.edu/x/2025/favicon.ico" width="40"/> 
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-OOP-000000?style=for-the-badge&logo=dependabot&logoColor=white" />
