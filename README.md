@@ -1,9 +1,4 @@
-# 🔥 Welcome to Ziad Magdy's Coding Universe 🔥
-<p style="display: flex; justify-content: center;">
-  <span style="font-size:90px; font-weight:bold; color:white;">
-    🔥 Welcome to Ziad Magdy's Coding Universe 🔥
-  </span>
-</p>
+#        🔥 Welcome to Ziad Magdy's Coding Universe 🔥 
 
 
 <p align="center">
