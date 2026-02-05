@@ -1,6 +1,6 @@
-<!-- ==================== النص الترحيبي الكبير والثابت ==================== -->
+<!-- ==================== النص الثابت الكبير ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=64&duration=4000&color=2F81F7&center=true&vCenter=true&width=900&lines=🔥+Welcome+to+Mohab+Gamal's+Coding+Universe+🔥" />
+  <b><span style="color:white; font-size:32px;">🔥 Welcome to Mohab Gamal's Coding Universe 🔥</span></b>
 </p>
 
 <!-- ==================== لوجو جامعة هارفارد CS50 ==================== -->
@@ -10,23 +10,9 @@
   </a>
 </p>
 
----
-
-### 🛠 Tech Stack
+<!-- ==================== Tech Stack / Skills ==================== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,c,scratch,firebase,git,github,androidstudio,vscode,postman" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziadmagdy109&theme=flat&row=1&column=7" height="90"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziadmagdy109&show_icons=true&count_private=true&hide=contribs&theme=radical" height="140"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=radical" height="140"/>
 </p>
 
 ---
