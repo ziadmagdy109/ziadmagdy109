@@ -1,12 +1,12 @@
+<!-- ==================== النص الترحيبي الكبير والثابت ==================== -->
 <p align="center">
-  <!-- النص الترحيبي الكبير -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=3000&color=2F81F7&center=true&vCenter=true&width=800&lines=🔥+Welcome+to+Mohab+Gamal's+Coding+Universe+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=64&duration=4000&color=2F81F7&center=true&vCenter=true&width=900&lines=🔥+Welcome+to+Mohab+Gamal's+Coding+Universe+🔥" />
 </p>
 
+<!-- ==================== لوجو جامعة هارفارد CS50 ==================== -->
 <p align="center">
-  <!-- لوجو جامعة هارفارد + CS50 -->
   <a href="https://cs50.harvard.edu/x/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" alt="Harvard CS50" width="80" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" alt="Harvard CS50" width="100" />
   </a>
 </p>
 
