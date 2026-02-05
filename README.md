@@ -1,10 +1,3 @@
-<p style="display: flex; justify-content: center;">
-  <span style="font-size:90px; font-weight:bold; color:white;">
-    🔥 Welcome to Ziad Magdy's Coding Universe 🔥
-  </span>
-</p>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ziad+Magdy;Flutter+Developer" />
 </p>
