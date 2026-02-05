@@ -1,7 +1,8 @@
 <p align="center">
   Hi 👋, I'm Ziad
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Ziad+Magdy;Flutter+Developer;Building+Clean+Mobile+Apps)
 </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Ziad+Magdy;Flutter+Developer;Building+Clean+Mobile+Apps)
+
 
 <p align="center">
   Flutter Developer
