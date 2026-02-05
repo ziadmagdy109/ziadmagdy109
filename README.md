@@ -6,9 +6,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Scratch_Logo.svg" height="45" />
-</p>
 
 ---
 
@@ -34,12 +31,11 @@
 
 ### 📊 Activity
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadmagdy109&show_icons=true&theme=transparent" height="145"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=transparent" height="145"/>
+  
 </p>
 
 ---
 
 ### 📬
-📧 your_email_here  
+📧 ziadmagdy718@gmail.com
 💼 github.com/ziadmagdy109
