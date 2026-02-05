@@ -29,17 +29,6 @@
 
 ---
 
-### 📊 Activity
- <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziadmagdy109&show_icons=true&theme=transparent" height="145"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=transparent" height="145"/>
-</p>
-<p>
-  
-</p>
-
----
-
 ### 📬
 📧 ziadmagdy718@gmail.com
 💼 [github.com/ziadmagdy109](https://github.com/ziadmagdy109)
