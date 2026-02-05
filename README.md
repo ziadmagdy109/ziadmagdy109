@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Scratch_Logo.svg" height="45" />
 </p>
 
 ---
@@ -19,6 +23,11 @@
 ### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-5A3DF0?style=for-the-badge"/>
 </p>
 
 ---
