@@ -1,43 +1,36 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2F81F7&size=22&center=true&vCenter=true&width=600&lines=Ziad+Magdy+—+Flutter+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ziad+Magdy;Flutter+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
 </p>
 
 ---
 
-### 🧠 About
-📱 Flutter Developer  
+### 🧩 Focus
+📱 Mobile Apps  
 ⚙️ Clean Architecture  
 🔌 REST APIs  
-🚀 Open to opportunities  
+💾 Local Storage  
 
 ---
 
-### 🛠 Stack
+### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman" />
 </p>
 
 ---
 
-### 📦 Projects
-📱 Flutter Apps (UI • Logic • API)  
-🔐 Auth & Secure Storage  
-💾 Local Storage (Hive)  
-
----
-
-### 📊 Stats
+### 📊 Activity
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadmagdy109&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadmagdy109&show_icons=true&theme=transparent" height="145"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=transparent" height="145"/>
 </p>
 
 ---
 
-### 📬 Contact
+### 📬
 📧 your_email_here  
-💻 github.com/ziadmagdy109
+💼 github.com/ziadmagdy109
