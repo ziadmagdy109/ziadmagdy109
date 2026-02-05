@@ -1,34 +1,41 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ziad+Magdy;Flutter+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+Ziad+Magdy's+Coding+Universe+🔥;Flutter+Developer+📱;Building+Creative+Apps+🚀" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,scratch,firebase,git,github,androidstudio,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ziadmagdy109&theme=flat&row=1&column=7" height="90"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github" />
-</p>
-
-
----
-
-### 🧩 Focus
-📱 Mobile Apps  
-⚙️ Clean Architecture  
-🔌 REST APIs  
-💾 Local Storage  
-
----
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_Code-5A3DF0?style=for-the-badge"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziadmagdy109&show_icons=true&count_private=true&hide=contribs&theme=radical" height="140"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziadmagdy109&layout=compact&theme=radical" height="140"/>
 </p>
 
 ---
 
-### 📬
-📧 ziadmagdy718@gmail.com
-💼 [github.com/ziadmagdy109](https://github.com/ziadmagdy109)
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziadmagdy109/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@ziadmagdy109">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:your_email_here">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⚡ Keep Coding & Keep Shining! ⚡
