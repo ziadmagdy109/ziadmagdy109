@@ -1,5 +1,5 @@
 <p align="center">
-  <b><span style="font-size:180px; color:white;">🔥 Welcome to Mohab Gamal's Coding Universe 🔥</span></b>
+  <b><span style="font-size:90px; color:white;">🔥 Welcome to Ziad Magdy's Coding Universe 🔥</span></b>
 </p>
 
 <p align="center">
@@ -8,10 +8,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,c,firebase,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Scratch_Logo.svg" height="45" />
 </p>
 
 ---
@@ -26,7 +22,7 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,cursor,Claude_Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman" />
 </p>
 
 <p>
@@ -38,4 +34,4 @@
 
 ### 📬
 📧 ziadmagdy718@gmail.com  
-💼 github.com/ziadmagdy109
+💼 g[ithub.com/ziadmagdy109](https://github.com/ziadmagdy109)
