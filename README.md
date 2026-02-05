@@ -1,11 +1,12 @@
-<br><br><br><br><br><br><br><br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+Mohab+Gamal's+Coding+Universe+🔥;Flutter+Developer+📱;Building+Creative+Apps+🚀" />
+  <!-- النص الترحيبي الكبير -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=3000&color=2F81F7&center=true&vCenter=true&width=800&lines=🔥+Welcome+to+Mohab+Gamal's+Coding+Universe+🔥" />
 </p>
 
 <p align="center">
+  <!-- لوجو جامعة هارفارد + CS50 -->
   <a href="https://cs50.harvard.edu/x/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" alt="Harvard CS50" width="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" alt="Harvard CS50" width="80" />
   </a>
 </p>
 
