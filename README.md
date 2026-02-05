@@ -1,8 +1,6 @@
 <p align="center">
   Hi 👋, I'm Ziad
 </p>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Ziad+Magdy;Flutter+Developer;Building+Clean+Mobile+Apps)
-
 
 <p align="center">
   Flutter Developer
@@ -16,11 +14,6 @@
 ## 🛠 Languages & Skills  
 
 <p align="center">
-  ### 🛠 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Scratch_Logo.svg" width="60"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
