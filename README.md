@@ -28,6 +28,6 @@
 
 ---
 
-### 📬
+### 📬 Contact
 📧 ziadmagdy718@gmail.com  
 💼 g[ithub.com/ziadmagdy109](https://github.com/ziadmagdy109)
