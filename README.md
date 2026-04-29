@@ -30,6 +30,10 @@
 
 ---
 
-### 📬 Contact
-📧 ziadmagdy718@gmail.com  
-💼 g[ithub.com/ziadmagdy109](https://github.com/ziadmagdy109)
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziadmagdy109/">LinkedIn</a> •
+  <a href="https://github.com/ziadmagdy109">GitHub</a> •
+  <a href="mailto:ziadmagdy718@gmail.com">Email</a>
+</p>
