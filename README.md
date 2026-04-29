@@ -34,14 +34,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ziadmagdy109/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Magdy-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ziadmagdy109" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ziadmagdy109-black?style=for-the-badge&logo=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ziadmagdy718@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
