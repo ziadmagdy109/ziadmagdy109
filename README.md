@@ -30,10 +30,18 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2>🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ziadmagdy109/">LinkedIn</a> •
-  <a href="https://github.com/ziadmagdy109">GitHub</a> •
-  <a href="mailto:ziadmagdy718@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ziadmagdy109/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Magdy-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/ziadmagdy109" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ziadmagdy109-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:ziadmagdy718@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
