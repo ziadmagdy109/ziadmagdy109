@@ -14,9 +14,7 @@
 - 💻 Flutter Developer with a passion for creating sleek, high-performance mobile apps.
 - 🚀 Currently diving deep into CI/CD and Unit Testing.
 - ✍️ Sharing insights & thoughts on 
-<a href="https://www.linkedin.com/in/ziadmagdy109/" target="_blank" style="color:blue; text-decoration:underline;">
-  LinkedIn
-</a>.
+<a href="https://www.linkedin.com/in/ziadmagdy109/" target="_blank" style="color:blue; text-decoration:underline;">LinkedIn</a>.
 - 💬 Ask me anything about Flutter, Dart, Mobile Development!
 
 
